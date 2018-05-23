@@ -1,0 +1,4 @@
+PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+PER02,Alice_ Kim_,30,Software Engineer_,500000,alicekim_@gmail.com,01132998439,COMP01
+PER03,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+PER04,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03

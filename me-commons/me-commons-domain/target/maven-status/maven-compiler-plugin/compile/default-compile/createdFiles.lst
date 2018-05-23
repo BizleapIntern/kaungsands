@@ -1,0 +1,11 @@
+com/me/commons/domain/enums/EntityStatus.class
+com/me/commons/domain/SystemConstant.class
+com/me/commons/domain/Employee.class
+com/me/commons/domain/exception/ServiceUnavailableException.class
+com/me/commons/domain/User.class
+com/me/commons/domain/utils/BizleapUtils.class
+com/me/commons/domain/utils/Printer.class
+com/me/commons/domain/AbstractEntity.class
+com/me/commons/domain/enums/ObjectFullnessLevel.class
+com/me/commons/domain/Company.class
+com/me/commons/domain/enums/EntityType.class
